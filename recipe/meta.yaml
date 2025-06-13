@@ -22,13 +22,14 @@ requirements:
     - setuptools
   run:
     - python >={{ python_min }}
-    - fsspec
+    - dask
     - numpy
+    - pyproj
+    - pystac
+    - pystac-client
     - xarray
-    - xcube
     - xarray-eopf
-    - zarr
-
+    - xcube >=1.11.0
 test:
   imports:
     - xcube_eopf
