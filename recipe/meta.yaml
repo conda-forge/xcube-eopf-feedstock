@@ -1,5 +1,5 @@
 {% set name = "xcube-eopf" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/EOPF-Sample-Service/xcube-eopf/archive/v{{ version }}.tar.gz
-  sha256: 95c9b50d5aac834b714f8096873d3067b030ff3bffca3987c78f80bab8c2b785
+  sha256: 50977449ecd3ba961367fb907fd37639776976ead3f8a16a6e49558a0d384f44
 
 build:
   number: 0

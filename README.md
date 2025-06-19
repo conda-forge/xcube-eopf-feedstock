@@ -150,6 +150,3 @@ Feedstock Maintainers
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
 
-
-<!-- dummy commit to enable rerendering -->
-
