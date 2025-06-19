@@ -28,7 +28,7 @@ requirements:
     - pystac
     - pystac-client
     - xarray
-    - xarray-eopf
+    - xarray-eopf >=0.1.1
     - xcube >=1.11.0
 test:
   imports:
