@@ -30,6 +30,7 @@ requirements:
     - xarray
     - xarray-eopf ==0.1.2
     - xcube >=1.11.0
+    - xcube-resampling
 test:
   imports:
     - xcube_eopf
