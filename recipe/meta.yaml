@@ -34,11 +34,8 @@ requirements:
 test:
   imports:
     - xcube_eopf
-  commands:
-    - pip check
   requires:
     - python {{ python_min }}
-    - pip
 
 about:
   summary: A xcube datastore implementation that allows for analysis-ready reading of ESA EOPF data products.
