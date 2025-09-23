@@ -149,7 +149,5 @@ Feedstock Maintainers
 
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
-
-
-<!-- dummy commit to enable rerendering -->
+* [@pont-us](https://github.com/pont-us/)
 
