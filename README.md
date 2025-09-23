@@ -149,4 +149,5 @@ Feedstock Maintainers
 
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
+* [@pont-us](https://github.com/pont-us/)
 
