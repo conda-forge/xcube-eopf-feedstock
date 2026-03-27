@@ -29,9 +29,9 @@ requirements:
     - pystac-client
     - shapely
     - xarray
-    - xarray-eopf >=0.2.5
+    - xarray-eopf >=0.2.7
     - xcube >=1.11.0
-    - xcube-resampling >=0.1.1
+    - xcube-resampling >=0.3.2
 test:
   imports:
     - xcube_eopf
