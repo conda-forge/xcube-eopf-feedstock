@@ -29,7 +29,7 @@ requirements:
     - pystac-client
     - shapely
     - xarray
-    - xarray-eopf >=0.2.7
+    - xarray-eopf >=0.3.0
     - xcube >=1.11.0
     - xcube-resampling >=0.3.2
 test:
@@ -52,3 +52,9 @@ extra:
     - pont-us
     - konstntokas
     - forman
+    - clarasb
+    - TonioF
+    - TejasMorbagal
+    - AliceBalfanz
+    - b-yogesh
+    - thomasstorm
