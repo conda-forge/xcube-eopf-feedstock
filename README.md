@@ -20,7 +20,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/xcube-eopf-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/xcube-eopf-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
@@ -149,7 +151,4 @@ Feedstock Maintainers
 * [@forman](https://github.com/forman/)
 * [@konstntokas](https://github.com/konstntokas/)
 * [@pont-us](https://github.com/pont-us/)
-
-
-<!-- dummy commit to enable rerendering -->
 
